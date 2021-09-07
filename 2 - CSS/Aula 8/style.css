@@ -1,0 +1,41 @@
+body {
+    background:#dfdfdf;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222222;
+}
+
+.foto{
+    width: 300px;
+    border:2px solid #ffffff; /*shorthand*/
+    border-radius: 50%;
+    /*
+    border-width: 5px;
+    border-style: solid;
+    border-colot: black;
+    */
+   
+   
+    /*margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    */
+
+    margin: 30px 30px 30px 30px;
+    
+    /* padding: 10px; */
+
+    box-shadow: 0px 0px 10px #969191;;
+}
+
+h1 {
+    margin-bottom: 0%;
+    letter-spacing: -1px;
+}
+
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(71, 71, 71);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
